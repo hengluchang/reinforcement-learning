@@ -102,7 +102,7 @@ class GridworldEnv(discrete.DiscreteEnv):
                 output = " o "
 
             if x == 0:
-                output = output.lstrip() 
+                output = output.lstrip()
             if x == self.shape[1] - 1:
                 output = output.rstrip()
 

@@ -44,3 +44,7 @@
 - Implement Value Iteration in Python (Gridworld)
   - [Exercise](Value%20Iteration.ipynb)
   - [Solution](Value%20Iteration%20Solution.ipynb)
+  
+### Others
+
+- [GridWorld: Dynamic Programming Demo](https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_dp.html)

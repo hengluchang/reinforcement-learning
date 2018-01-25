@@ -31,6 +31,8 @@
 - [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
 - [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461)
 - [Prioritized Experience Replay](http://arxiv.org/abs/1511.05952)
+- [Beat Atari with Deep Reinforcement Learning! (Part 1: DQN)](https://becominghuman.ai/lets-build-an-atari-ai-part-1-dqn-df57e8ff3b26)
+- [Pytorch: Reinforcement Learning (DQN) tutorial](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
 
 **Deep Learning:**
 

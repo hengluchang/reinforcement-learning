@@ -10,7 +10,7 @@
 
 ### Summary
 
-- Dynamic Programming (DP) methods assume that we have a perfect model of the environment's Markov Decision Process (MDP). That's usually not the case in practice, but it's important to study DP anyway.
+- **Dynamic Programming (DP) methods assume that we have a perfect model of the environment's Markov Decision Process (MDP).** That's usually not the case in practice, but it's important to study DP anyway.
 - **Policy Evaluation**: Calculates the state-value function `V(s)` for a given policy. In DP this is done using a "full backup". At each state, we look ahead one step at each possible action and next state. We can only do this because we have a perfect model of the environment.
 - Full backups are basically the Bellman equations turned into updates.
 - **Policy Improvement**: Given the correct state-value function for a policy we can act greedily with respect to it (i.e. pick the best action at each state). Then we are guaranteed to improve the policy or keep it fixed if it's already optimal.
@@ -44,7 +44,7 @@
 - Implement Value Iteration in Python (Gridworld)
   - [Exercise](Value%20Iteration.ipynb)
   - [Solution](Value%20Iteration%20Solution.ipynb)
-  
+
 ### Others
 
 - [GridWorld: Dynamic Programming Demo](https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_dp.html)

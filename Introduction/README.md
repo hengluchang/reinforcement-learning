@@ -11,7 +11,7 @@
 - In RL an agent learns from experiences it gains by interacting with the environment. In Supervised Learning we cannot affect the environment.
 - In RL rewards are often delayed in time and the agent tries to maximize a long-term goal. For example, one may need to make seemingly suboptimal moves to reach a winning position in a game.
 - An agent interacts with the environment via states, actions and rewards.
-- **Fully observable environment** means that agent directly observes environment state (O<sub>t</sub> = S<sup>a</sup><sub>t</sub> = S<sup>e</sup><sub>t</sub>). This is a Markov decision process (MDP). On the other hand, partial observability means that the agent indirectly observes environment. (e.g., A robot with camera vision isn't told its abslute location.) Now S<sup>a</sup><sub>t</sub> != S<sup>e</sup><sub>t</sub>. This is a **partially observable Markov decision process** (POMDP). 
+- **Fully observable environment** means that agent directly observes environment state (O<sub>t</sub> = S<sup>a</sup><sub>t</sub> = S<sup>e</sup><sub>t</sub>). This is a Markov decision process (MDP). On the other hand, partial observability means that the agent indirectly observes environment. (e.g., A robot with camera vision isn't told its absolute location.) Now S<sup>a</sup><sub>t</sub> != S<sup>e</sup><sub>t</sub>. This is a **partially observable Markov decision process** (POMDP). 
 
 
 ### Lectures & Readings

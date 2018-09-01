@@ -48,3 +48,6 @@
 ### Others
 
 - [GridWorld: Dynamic Programming Demo](https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_dp.html)
+- Implement Gambler's Problem
+  - [Exercise](Gamblers%20Problem.ipynb)
+  - [Solution](Gamblers%20Problem%20Solution.ipynb)

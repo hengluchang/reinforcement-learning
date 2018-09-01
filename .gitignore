@@ -95,4 +95,6 @@ ENV/
 .ipynb_checkpoints/
 
 #misc
-.DS_Store 
+.DS_Store
+
+.gitattributes 
